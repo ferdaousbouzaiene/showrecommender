@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # showrecommender
 =======
 # 🎬 Hybrid Movie Recommender System
@@ -286,15 +285,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Streamlit** for the amazing web framework
 - **scikit-learn** community for ML algorithms
 
-## 📞 Support
-
-- 📧 Email: your-email@example.com
-- 🐛 Issues: GitHub Issues page
-- 💬 Discussions: GitHub Discussions
-
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by le moi Ferdaous**
 
 *Discover your next favorite movie with the power of AI and machine learning!* 🎬✨
->>>>>>> origin/master
